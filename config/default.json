@@ -1,5 +1,5 @@
 {
-    "database": "data/tsv12.db",
+    "database": "data/tsv13.db",
     "websocket_url": "wss://api.mainnet-beta.solana.com",
     "monitor_interval": 10
 }
